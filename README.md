@@ -1,6 +1,6 @@
 # 💚 Welcome to my profile! 🐸
 
-# My name is 「 Artyom "azya0" Sokolov ] <br> I am 20+ years old developer from Russia 
+# My name is 「 Artyom "azya0" Sokolov 」 <br> I am 20+ years old developer from Russia 
 
 ## 𓍊𓋼𓍊𓋼 𓍊𓆏 𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊 𓆏 𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊 𓆏 𓍊𓋼𓍊𓋼𓍊𓍊𓋼𓍊𓋼𓍊 𓆏 𓍊𓋼𓍊𓋼𓍊𓋼𓍊𓍊 <br>
 Now I study at **Peter the Great St. Petersburg Polytechnic University** <br> and am preparing to become a **Backend developer**
